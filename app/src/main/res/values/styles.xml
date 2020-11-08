@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+
+    <style name="Theme" parent="android:Theme.Material.Wallpaper.NoTitleBar">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+</resources>
